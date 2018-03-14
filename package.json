@@ -1,0 +1,24 @@
+{
+  "name": "chinese-poetry",
+  "version": "1.0.0",
+  "description": "chinese-poetry ==============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandiao/chinese-poetry.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wandiao/chinese-poetry/issues"
+  },
+  "homepage": "https://github.com/wandiao/chinese-poetry#readme",
+  "dependencies": {
+    "mysql": "^2.15.0",
+    "opencc": "^1.0.5"
+  }
+}
