@@ -1,3 +1,5 @@
+// 把繁体转化为简体
+
 const OpenCC = require('opencc');
 
 const opencc = new OpenCC('t2s.json');
